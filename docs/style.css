@@ -35,6 +35,7 @@ body {
   align-items: center;
   text-align: center;
   margin-top: 80px;
+  font-family : inherit;
 }
 
 .btn {
@@ -42,7 +43,7 @@ body {
   background: none;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "Roboto";
+  font-family : inherit;
   cursor: pointer;
 }
 
@@ -51,7 +52,7 @@ body {
   background: none;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "Roboto";
+  font-family : inherit;
   cursor: pointer;
 }
 
@@ -60,7 +61,7 @@ body {
   background: none;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "Roboto";
+  font-family : inherit;
   cursor: pointer;
 }
 
@@ -69,7 +70,7 @@ body {
   background: none;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "Roboto";
+  font-family : inherit;
   cursor: pointer;
 }
 
