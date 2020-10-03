@@ -55,7 +55,6 @@ body {
   cursor: pointer;
 }
 
-
 .btn_my_git {
   border: 1px solid #3499db;
   background: none;
@@ -75,3 +74,4 @@ body {
 }
 
 
+button:active { background-color: SteelBlue; color: White; }
