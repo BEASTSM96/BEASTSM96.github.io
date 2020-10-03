@@ -14,3 +14,13 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+
+.BInfoFacts {
+  min-height: 6vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
