@@ -37,11 +37,44 @@ body {
 }
 
 .btn {
+  align-self: center;
   border: 1px solid #3499db;
   background: none;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "Ubuntu";
+  font-family: 'Ubuntu';
   cursor: pointer;
 }
+
+.btn_my_projects {
+  align-self: center;
+  border: 1px solid #3499db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: 'Ubuntu';
+  cursor: pointer;
+}
+
+
+.btn_my_git {
+  align-self: center;
+  border: 1px solid #3499db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: 'Ubuntu';
+  cursor: pointer;
+}
+
+.btn_my_youtube {
+  align-self: center;
+  border: 1px solid #3499db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: 'Ubuntu';
+  cursor: pointer;
+}
+
 
