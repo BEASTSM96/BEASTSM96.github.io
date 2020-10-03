@@ -7,9 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-
+/* Header */
 .BInfo {
-  min-height: 60vh;
+  min-height: 25vh;
   display: flex;
   align-items: center;
   justify-content: center;
