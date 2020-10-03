@@ -8,9 +8,10 @@ body {
 }
 
 
-.Test {
-    text-align: center;
-    background-color: black;
-    font-size: calc(10px + 2vmin);
-    color: white;
+.BInfo {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
